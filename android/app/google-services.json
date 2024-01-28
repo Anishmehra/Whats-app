@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124900136183",
+    "project_id": "watsapp-f810f",
+    "storage_bucket": "watsapp-f810f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124900136183:android:0971a2420e732112caeff2",
+        "android_client_info": {
+          "package_name": "com.example.watsapppp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuHhD-ma06Xzhv-_6cfL5PZBJpaT1Ved4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
